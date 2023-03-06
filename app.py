@@ -12,6 +12,9 @@ def return_targets(data=get_targets()) -> list:
     for itemi in data["ip"]:
         for item in itemi:
             item = itemi[item]
+            if item["can_connect"] == False:
+                continue
+            
             for ports in item["open_ports"]:
                 if ports in [80, 443, 8080, 8443]:
                     if ports in [443, 8443]:
