@@ -4,7 +4,7 @@ import subprocess
 
 import os
 
-host = ""
+host = "http://95.216.144.113:5000"
 
 def get_targets(host):
 
