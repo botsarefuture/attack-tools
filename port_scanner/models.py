@@ -10,8 +10,8 @@ class ip():
         self.can_connect = True # Is able to connect to host
         self.hostname_exists = True # Does hostname exist
 
-    def __str__(self):
-        return json.dumps({"ip": self.ip, "open_ports": self.open_ports, "can_connect": self.can_connect, "hostname_exists": self.hostname_exists})
+    def export_data(self):
+        return dict({"ip": self.ip, "open_ports": self.open_ports, "can_connect": self.can_connect, "hostname_exists": self.hostname_exists})
 
     def scan_ports(self):
         try:
@@ -24,6 +24,7 @@ class ip():
         except socket.gaierror:
             print("\n Hostname Could Not Be Resolved !!!!")
             self.hostname_exists = False
+            self.can_connect = False
 
         except socket.error:
             print("\n Server not responding !!!!")
@@ -31,8 +32,7 @@ class ip():
 
     def connect(self, port):
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        socket.setdefaulttimeout(1)
-
+        s.settimeout(0.2)
         # returns an error indicator
         result = s.connect_ex((self.ip, port))
         if result == 0:
