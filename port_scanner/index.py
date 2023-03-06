@@ -48,26 +48,40 @@ ip_add = []
 
 domains = []
 
-for code in lands_codes:
-    domain = f"lukoil{code}"
-    status = hostname_resolves(domain)
+def make_domain_list(hostname_resolves):
+    for code in lands_codes:
+        domain = f"lukoil{code}"
+        status = hostname_resolves(domain)
 
-    if status == 1:
-        print(domain)
-        lukoil.append(domain)
+        if status == 1:
+            print(domain)
+            lukoil.append(domain)
+
+make_domain_list(hostname_resolves)
 
 
-for target in lukoil:
-    ips = get_ips_by_dns_lookup(target=target)
-    for ip in ips:
-        if not ip in ip_add:
-            ip_add.append(ip)
-print(ip_add)
-ip_data = {}
-for ip in ip_add:
-    data = scan_ips([ip])[ip]
-    ip_data[ip] = scan_ips([ip])
-    print(data)
+def add_to_ip_add(ip_add):
+    for target in lukoil:
+        ips = get_ips_by_dns_lookup(target=target)
+        for ip in ips:
+            if not ip in ip_add:
+                ip_add.append(ip)
 
-with open("ips.json", "w") as f:
-    json.dump(ip_data, f)
+add_to_ip_add(ip_add)
+
+def scan_ip(ip_add):
+    ip_datas = {"ip": []}
+    for ip in ip_add:
+        data = scan_ips([ip])[ip]
+        ip_datas["ip"].append(scan_ips([ip]))
+        print(data)
+    return ip_datas
+
+def save_data(ip_data):
+
+    with open("ips.json", "w") as f:
+        json.dump(ip_data, f)
+
+ip_data = scan_ip(ip_add)
+
+save_data(ip_data)

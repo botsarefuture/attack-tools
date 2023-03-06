@@ -1,815 +1,813 @@
 {
-    "82.118.146.21": {
-        "82.118.146.21": {
-            "ip": "82.118.146.21",
-            "open_ports": [
-                80,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.229.3": {
-        "95.171.229.3": {
-            "ip": "95.171.229.3",
-            "open_ports": [
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.229.5": {
-        "95.171.229.5": {
-            "ip": "95.171.229.5",
-            "open_ports": [
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.228.189": {
-        "95.171.228.189": {
-            "ip": "95.171.228.189",
-            "open_ports": [
-                80,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.228.47": {
-        "95.171.228.47": {
-            "ip": "95.171.228.47",
-            "open_ports": [],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "212.109.222.250": {
-        "212.109.222.250": {
-            "ip": "212.109.222.250",
-            "open_ports": [
-                80,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "185.187.90.121": {
-        "185.187.90.121": {
-            "ip": "185.187.90.121",
-            "open_ports": [
-                80,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.228.242": {
-        "95.171.228.242": {
-            "ip": "95.171.228.242",
-            "open_ports": [
-                443,
-                8443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.232.193": {
-        "95.171.232.193": {
-            "ip": "95.171.232.193",
-            "open_ports": [
-                80,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.228.193": {
-        "95.171.228.193": {
-            "ip": "95.171.228.193",
-            "open_ports": [
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.232.199": {
-        "95.171.232.199": {
-            "ip": "95.171.232.199",
-            "open_ports": [
-                80,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.228.222": {
-        "95.171.228.222": {
-            "ip": "95.171.228.222",
-            "open_ports": [
-                80,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.232.222": {
-        "95.171.232.222": {
-            "ip": "95.171.232.222",
-            "open_ports": [
-                80,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.229.4": {
-        "95.171.229.4": {
-            "ip": "95.171.229.4",
-            "open_ports": [
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.236.88": {
-        "95.171.236.88": {
-            "ip": "95.171.236.88",
-            "open_ports": [],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.236.199": {
-        "95.171.236.199": {
-            "ip": "95.171.236.199",
-            "open_ports": [
-                80
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.244.22": {
-        "95.171.244.22": {
-            "ip": "95.171.244.22",
-            "open_ports": [
-                80,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "194.228.224.40": {
-        "194.228.224.40": {
-            "ip": "194.228.224.40",
-            "open_ports": [
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "84.199.93.190": {
-        "84.199.93.190": {
-            "ip": "84.199.93.190",
-            "open_ports": [
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "178.248.235.144": {
-        "178.248.235.144": {
-            "ip": "178.248.235.144",
-            "open_ports": [
-                80,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "212.38.104.53": {
-        "212.38.104.53": {
-            "ip": "212.38.104.53",
-            "open_ports": [
-                80,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.228.181": {
-        "95.171.228.181": {
-            "ip": "95.171.228.181",
-            "open_ports": [],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "82.118.146.49": {
-        "82.118.146.49": {
-            "ip": "82.118.146.49",
-            "open_ports": [
-                80,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "82.118.146.78": {
-        "82.118.146.78": {
-            "ip": "82.118.146.78",
-            "open_ports": [
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "82.118.146.77": {
-        "82.118.146.77": {
-            "ip": "82.118.146.77",
-            "open_ports": [
-                25,
-                80
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "82.118.146.76": {
-        "82.118.146.76": {
-            "ip": "82.118.146.76",
-            "open_ports": [
-                25,
-                80
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.228.101": {
-        "95.171.228.101": {
-            "ip": "95.171.228.101",
-            "open_ports": [
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.228.102": {
-        "95.171.228.102": {
-            "ip": "95.171.228.102",
-            "open_ports": [
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.228.138": {
-        "95.171.228.138": {
-            "ip": "95.171.228.138",
-            "open_ports": [
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.233.27": {
-        "95.171.233.27": {
-            "ip": "95.171.233.27",
-            "open_ports": [
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.233.28": {
-        "95.171.233.28": {
-            "ip": "95.171.233.28",
-            "open_ports": [
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.232.218": {
-        "95.171.232.218": {
-            "ip": "95.171.232.218",
-            "open_ports": [
-                80,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "104.22.36.82": {
-        "104.22.36.82": {
-            "ip": "104.22.36.82",
-            "open_ports": [
-                80,
-                443,
-                8080,
-                8443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "172.67.31.54": {
-        "172.67.31.54": {
-            "ip": "172.67.31.54",
-            "open_ports": [
-                80,
-                443,
-                8080,
-                8443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "104.22.37.82": {
-        "104.22.37.82": {
-            "ip": "104.22.37.82",
-            "open_ports": [
-                80,
-                443,
-                8080,
-                8443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "2606:4700:10::ac43:1f36": {
-        "2606:4700:10::ac43:1f36": {
-            "ip": "2606:4700:10::ac43:1f36",
-            "open_ports": [],
-            "can_connect": false,
-            "hostname_exists": false
-        }
-    },
-    "2606:4700:10::6816:2452": {
-        "2606:4700:10::6816:2452": {
-            "ip": "2606:4700:10::6816:2452",
-            "open_ports": [],
-            "can_connect": false,
-            "hostname_exists": false
-        }
-    },
-    "2606:4700:10::6816:2552": {
-        "2606:4700:10::6816:2552": {
-            "ip": "2606:4700:10::6816:2552",
-            "open_ports": [],
-            "can_connect": false,
-            "hostname_exists": false
-        }
-    },
-    "95.171.228.146": {
-        "95.171.228.146": {
-            "ip": "95.171.228.146",
-            "open_ports": [
-                80,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.233.31": {
-        "95.171.233.31": {
-            "ip": "95.171.233.31",
-            "open_ports": [
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.233.29": {
-        "95.171.233.29": {
-            "ip": "95.171.233.29",
-            "open_ports": [
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.228.229": {
-        "95.171.228.229": {
-            "ip": "95.171.228.229",
-            "open_ports": [
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.228.111": {
-        "95.171.228.111": {
-            "ip": "95.171.228.111",
-            "open_ports": [
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.228.113": {
-        "95.171.228.113": {
-            "ip": "95.171.228.113",
-            "open_ports": [
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "82.118.131.100": {
-        "82.118.131.100": {
-            "ip": "82.118.131.100",
-            "open_ports": [
-                80,
-                443,
-                8080
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.232.154": {
-        "95.171.232.154": {
-            "ip": "95.171.232.154",
-            "open_ports": [],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "95.171.228.168": {
-        "95.171.228.168": {
-            "ip": "95.171.228.168",
-            "open_ports": [
-                80
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "162.255.119.43": {
-        "162.255.119.43": {
-            "ip": "162.255.119.43",
-            "open_ports": [
-                80
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "62.116.130.8": {
-        "62.116.130.8": {
-            "ip": "62.116.130.8",
-            "open_ports": [
-                25,
-                80
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "185.53.177.73": {
-        "185.53.177.73": {
-            "ip": "185.53.177.73",
-            "open_ports": [
-                80,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "217.198.116.188": {
-        "217.198.116.188": {
-            "ip": "217.198.116.188",
-            "open_ports": [
-                80,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "2a00:19a0:3:74:0:d9c6:74bc:1": {
-        "2a00:19a0:3:74:0:d9c6:74bc:1": {
-            "ip": "2a00:19a0:3:74:0:d9c6:74bc:1",
-            "open_ports": [],
-            "can_connect": false,
-            "hostname_exists": false
-        }
-    },
-    "46.30.211.38": {
-        "46.30.211.38": {
-            "ip": "46.30.211.38",
-            "open_ports": [
-                80,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "217.146.70.22": {
-        "217.146.70.22": {
-            "ip": "217.146.70.22",
-            "open_ports": [
-                21,
-                22,
-                80,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "64.190.63.111": {
-        "64.190.63.111": {
-            "ip": "64.190.63.111",
-            "open_ports": [
-                80,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "192.49.222.83": {
-        "192.49.222.83": {
-            "ip": "192.49.222.83",
-            "open_ports": [],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "142.132.181.81": {
-        "142.132.181.81": {
-            "ip": "142.132.181.81",
-            "open_ports": [
-                22,
-                80
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "185.163.200.37": {
-        "185.163.200.37": {
-            "ip": "185.163.200.37",
-            "open_ports": [
-                21,
-                25,
-                80,
-                110,
-                143,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "138.68.96.41": {
-        "138.68.96.41": {
-            "ip": "138.68.96.41",
-            "open_ports": [
-                22,
-                80,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "3.64.163.50": {
-        "3.64.163.50": {
-            "ip": "3.64.163.50",
-            "open_ports": [
-                80,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "185.98.5.218": {
-        "185.98.5.218": {
-            "ip": "185.98.5.218",
-            "open_ports": [
-                21,
-                25,
-                80,
-                110,
-                143,
-                443,
-                8443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "173.236.227.251": {
-        "173.236.227.251": {
-            "ip": "173.236.227.251",
-            "open_ports": [
-                21,
-                22,
-                80,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "92.61.46.12": {
-        "92.61.46.12": {
-            "ip": "92.61.46.12",
-            "open_ports": [
-                25
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "80.65.129.130": {
-        "80.65.129.130": {
-            "ip": "80.65.129.130",
-            "open_ports": [],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "185.53.178.52": {
-        "185.53.178.52": {
-            "ip": "185.53.178.52",
-            "open_ports": [
-                80,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "208.91.197.91": {
-        "208.91.197.91": {
-            "ip": "208.91.197.91",
-            "open_ports": [
-                53,
-                80
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "52.19.100.132": {
-        "52.19.100.132": {
-            "ip": "52.19.100.132",
-            "open_ports": [
-                80
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "185.134.245.113": {
-        "185.134.245.113": {
-            "ip": "185.134.245.113",
-            "open_ports": [
-                80
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "2a01:5b40:0:bc03::1": {
-        "2a01:5b40:0:bc03::1": {
-            "ip": "2a01:5b40:0:bc03::1",
-            "open_ports": [],
-            "can_connect": false,
-            "hostname_exists": false
-        }
-    },
-    "45.79.222.138": {
-        "45.79.222.138": {
-            "ip": "45.79.222.138",
-            "open_ports": [
-                22,
-                80,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "138.197.184.242": {
-        "138.197.184.242": {
-            "ip": "138.197.184.242",
-            "open_ports": [
-                22,
-                80
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "5.188.131.10": {
-        "5.188.131.10": {
-            "ip": "5.188.131.10",
-            "open_ports": [
-                22,
-                80,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "34.102.136.180": {
-        "34.102.136.180": {
-            "ip": "34.102.136.180",
-            "open_ports": [
-                80,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "62.209.143.131": {
-        "62.209.143.131": {
-            "ip": "62.209.143.131",
-            "open_ports": [
-                21,
-                22,
-                25,
-                53,
-                80,
-                110,
-                143,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "88.198.29.97": {
-        "88.198.29.97": {
-            "ip": "88.198.29.97",
-            "open_ports": [
-                21,
-                22,
-                25,
-                80,
-                110,
-                143,
-                443
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    },
-    "64.70.19.203": {
-        "64.70.19.203": {
-            "ip": "64.70.19.203",
-            "open_ports": [
-                80
-            ],
-            "can_connect": true,
-            "hostname_exists": true
-        }
-    }
+    "ip": [
+        {
+            "82.118.146.21": {
+                "ip": "82.118.146.21",
+                "open_ports": [
+                    80,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.229.3": {
+                "ip": "95.171.229.3",
+                "open_ports": [
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.229.5": {
+                "ip": "95.171.229.5",
+                "open_ports": [
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.228.189": {
+                "ip": "95.171.228.189",
+                "open_ports": [
+                    80,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.228.47": {
+                "ip": "95.171.228.47",
+                "open_ports": [],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "212.109.222.250": {
+                "ip": "212.109.222.250",
+                "open_ports": [
+                    80,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "185.187.90.121": {
+                "ip": "185.187.90.121",
+                "open_ports": [
+                    80,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.228.242": {
+                "ip": "95.171.228.242",
+                "open_ports": [
+                    443,
+                    8443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.232.193": {
+                "ip": "95.171.232.193",
+                "open_ports": [
+                    80,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.228.193": {
+                "ip": "95.171.228.193",
+                "open_ports": [
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.232.199": {
+                "ip": "95.171.232.199",
+                "open_ports": [
+                    80,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.228.222": {
+                "ip": "95.171.228.222",
+                "open_ports": [
+                    80,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.232.222": {
+                "ip": "95.171.232.222",
+                "open_ports": [
+                    80,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.229.4": {
+                "ip": "95.171.229.4",
+                "open_ports": [
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.236.88": {
+                "ip": "95.171.236.88",
+                "open_ports": [],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.236.199": {
+                "ip": "95.171.236.199",
+                "open_ports": [
+                    80
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.244.22": {
+                "ip": "95.171.244.22",
+                "open_ports": [
+                    80,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "194.228.224.40": {
+                "ip": "194.228.224.40",
+                "open_ports": [
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "84.199.93.190": {
+                "ip": "84.199.93.190",
+                "open_ports": [
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "178.248.235.144": {
+                "ip": "178.248.235.144",
+                "open_ports": [
+                    80,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "212.38.104.53": {
+                "ip": "212.38.104.53",
+                "open_ports": [
+                    80,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.228.181": {
+                "ip": "95.171.228.181",
+                "open_ports": [],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "82.118.146.49": {
+                "ip": "82.118.146.49",
+                "open_ports": [
+                    80,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "82.118.146.78": {
+                "ip": "82.118.146.78",
+                "open_ports": [
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "82.118.146.77": {
+                "ip": "82.118.146.77",
+                "open_ports": [
+                    25,
+                    80
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "82.118.146.76": {
+                "ip": "82.118.146.76",
+                "open_ports": [
+                    25,
+                    80
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.228.102": {
+                "ip": "95.171.228.102",
+                "open_ports": [
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.228.101": {
+                "ip": "95.171.228.101",
+                "open_ports": [],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.228.138": {
+                "ip": "95.171.228.138",
+                "open_ports": [
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.233.27": {
+                "ip": "95.171.233.27",
+                "open_ports": [
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.233.28": {
+                "ip": "95.171.233.28",
+                "open_ports": [
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.232.218": {
+                "ip": "95.171.232.218",
+                "open_ports": [
+                    80,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "104.22.37.82": {
+                "ip": "104.22.37.82",
+                "open_ports": [
+                    80,
+                    443,
+                    8080,
+                    8443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "172.67.31.54": {
+                "ip": "172.67.31.54",
+                "open_ports": [
+                    80,
+                    443,
+                    8080,
+                    8443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "104.22.36.82": {
+                "ip": "104.22.36.82",
+                "open_ports": [
+                    80,
+                    443,
+                    8080,
+                    8443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "2606:4700:10::6816:2552": {
+                "ip": "2606:4700:10::6816:2552",
+                "open_ports": [],
+                "can_connect": false,
+                "hostname_exists": false
+            }
+        },
+        {
+            "2606:4700:10::6816:2452": {
+                "ip": "2606:4700:10::6816:2452",
+                "open_ports": [],
+                "can_connect": false,
+                "hostname_exists": false
+            }
+        },
+        {
+            "2606:4700:10::ac43:1f36": {
+                "ip": "2606:4700:10::ac43:1f36",
+                "open_ports": [],
+                "can_connect": false,
+                "hostname_exists": false
+            }
+        },
+        {
+            "95.171.228.146": {
+                "ip": "95.171.228.146",
+                "open_ports": [
+                    80,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.233.29": {
+                "ip": "95.171.233.29",
+                "open_ports": [
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.233.31": {
+                "ip": "95.171.233.31",
+                "open_ports": [
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.228.111": {
+                "ip": "95.171.228.111",
+                "open_ports": [
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.228.113": {
+                "ip": "95.171.228.113",
+                "open_ports": [
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.228.229": {
+                "ip": "95.171.228.229",
+                "open_ports": [
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "82.118.131.100": {
+                "ip": "82.118.131.100",
+                "open_ports": [
+                    80,
+                    443,
+                    8080
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.232.154": {
+                "ip": "95.171.232.154",
+                "open_ports": [],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "95.171.228.168": {
+                "ip": "95.171.228.168",
+                "open_ports": [
+                    80
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "162.255.119.43": {
+                "ip": "162.255.119.43",
+                "open_ports": [
+                    80
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "62.116.130.8": {
+                "ip": "62.116.130.8",
+                "open_ports": [
+                    25,
+                    80
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "185.53.177.73": {
+                "ip": "185.53.177.73",
+                "open_ports": [
+                    80,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "217.198.116.188": {
+                "ip": "217.198.116.188",
+                "open_ports": [
+                    80,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "2a00:19a0:3:74:0:d9c6:74bc:1": {
+                "ip": "2a00:19a0:3:74:0:d9c6:74bc:1",
+                "open_ports": [],
+                "can_connect": false,
+                "hostname_exists": false
+            }
+        },
+        {
+            "46.30.211.38": {
+                "ip": "46.30.211.38",
+                "open_ports": [
+                    80,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "217.146.70.22": {
+                "ip": "217.146.70.22",
+                "open_ports": [
+                    21,
+                    22,
+                    80,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "64.190.63.111": {
+                "ip": "64.190.63.111",
+                "open_ports": [
+                    80,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "192.49.222.83": {
+                "ip": "192.49.222.83",
+                "open_ports": [],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "142.132.181.81": {
+                "ip": "142.132.181.81",
+                "open_ports": [
+                    22,
+                    80
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "185.163.200.37": {
+                "ip": "185.163.200.37",
+                "open_ports": [
+                    21,
+                    25,
+                    80,
+                    110,
+                    143,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "138.68.96.41": {
+                "ip": "138.68.96.41",
+                "open_ports": [
+                    22,
+                    80,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "3.64.163.50": {
+                "ip": "3.64.163.50",
+                "open_ports": [
+                    80,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "185.98.5.218": {
+                "ip": "185.98.5.218",
+                "open_ports": [
+                    21,
+                    25,
+                    80,
+                    110,
+                    143,
+                    443,
+                    8443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "173.236.227.251": {
+                "ip": "173.236.227.251",
+                "open_ports": [
+                    21,
+                    22,
+                    80,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "92.61.46.12": {
+                "ip": "92.61.46.12",
+                "open_ports": [
+                    25
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "80.65.129.130": {
+                "ip": "80.65.129.130",
+                "open_ports": [],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "185.53.178.52": {
+                "ip": "185.53.178.52",
+                "open_ports": [
+                    80,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "208.91.197.91": {
+                "ip": "208.91.197.91",
+                "open_ports": [
+                    53,
+                    80
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "52.19.100.132": {
+                "ip": "52.19.100.132",
+                "open_ports": [
+                    80
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "185.134.245.113": {
+                "ip": "185.134.245.113",
+                "open_ports": [
+                    80
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "2a01:5b40:0:bc03::1": {
+                "ip": "2a01:5b40:0:bc03::1",
+                "open_ports": [],
+                "can_connect": false,
+                "hostname_exists": false
+            }
+        },
+        {
+            "45.79.222.138": {
+                "ip": "45.79.222.138",
+                "open_ports": [
+                    22
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "138.197.184.242": {
+                "ip": "138.197.184.242",
+                "open_ports": [
+                    22,
+                    80
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "5.188.131.10": {
+                "ip": "5.188.131.10",
+                "open_ports": [
+                    22,
+                    80,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "34.102.136.180": {
+                "ip": "34.102.136.180",
+                "open_ports": [
+                    80,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "62.209.143.131": {
+                "ip": "62.209.143.131",
+                "open_ports": [
+                    21,
+                    22,
+                    25,
+                    53,
+                    80,
+                    110,
+                    143,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "88.198.29.97": {
+                "ip": "88.198.29.97",
+                "open_ports": [
+                    21,
+                    22,
+                    25,
+                    80,
+                    110,
+                    143,
+                    443
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        },
+        {
+            "64.70.19.203": {
+                "ip": "64.70.19.203",
+                "open_ports": [
+                    80
+                ],
+                "can_connect": true,
+                "hostname_exists": true
+            }
+        }
+    ]
 }
