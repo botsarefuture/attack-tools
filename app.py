@@ -7,7 +7,6 @@ def get_targets():
         data = json.load(f)
     return data
 
-
 def return_targets(data=get_targets()) -> list:
     to_attack = []
     for itemi in data["ip"]:
