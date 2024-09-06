@@ -6,6 +6,7 @@ from targets import lukoil, lands_codes
 
 from config import ports
 
+
 def scan_ips(ips):
     ips_dict = {}
     for i in range(0, len(ips)):
@@ -13,29 +14,36 @@ def scan_ips(ips):
         ip_modeli = ip_model(ip)
         ip_modeli.scan_ports()
         ips_dict[ip] = ip_modeli.export_data()
-    
+
     return ips_dict
 
+
 def get_ips_by_dns_lookup(target, port=None):
-    '''
-        this function takes the passed target and optional port and does a dns
-        lookup. it returns the ips that it finds to the caller.
+    """
+    this function takes the passed target and optional port and does a dns
+    lookup. it returns the ips that it finds to the caller.
 
-        :param target:  the URI that you'd like to get the ip address(es) for
-        :type target:   string
-        :param port:    which port do you want to do the lookup against?
-        :type port:     integer
-        :returns ips:   all of the discovered ips for the target
-        :rtype ips:     list of strings
+    :param target:  the URI that you'd like to get the ip address(es) for
+    :type target:   string
+    :param port:    which port do you want to do the lookup against?
+    :type port:     integer
+    :returns ips:   all of the discovered ips for the target
+    :rtype ips:     list of strings
 
-    '''
+    """
     ips1 = []
     for port in ports:
-        for item in list(map(lambda x: x[4][0], socket.getaddrinfo('{}.'.format(target),port,type=socket.SOCK_STREAM))):
+        for item in list(
+            map(
+                lambda x: x[4][0],
+                socket.getaddrinfo("{}.".format(target), port, type=socket.SOCK_STREAM),
+            )
+        ):
             if not item in ips1:
                 ips1.append(item)
-    
+
     return ips1
+
 
 def hostname_resolves(hostname):
     try:
@@ -44,9 +52,11 @@ def hostname_resolves(hostname):
     except socket.error:
         return 0
 
+
 ip_add = []
 
 domains = []
+
 
 def make_domain_list(hostname_resolves):
     for code in lands_codes:
@@ -56,6 +66,7 @@ def make_domain_list(hostname_resolves):
         if status == 1:
             print(domain)
             lukoil.append(domain)
+
 
 make_domain_list(hostname_resolves)
 
@@ -67,7 +78,9 @@ def add_to_ip_add(ip_add):
             if not ip in ip_add:
                 ip_add.append(ip)
 
+
 add_to_ip_add(ip_add)
+
 
 def scan_ip(ip_add):
     ip_datas = {"ip": []}
@@ -77,10 +90,12 @@ def scan_ip(ip_add):
         print(data)
     return ip_datas
 
+
 def save_data(ip_data):
 
     with open("ips.json", "w") as f:
         json.dump(ip_data, f)
+
 
 ip_data = scan_ip(ip_add)
 

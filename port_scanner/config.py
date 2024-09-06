@@ -26,4 +26,5 @@ def define_ports() -> list:
 
     return ports
 
+
 ports = define_ports()

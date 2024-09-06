@@ -3,19 +3,27 @@ import socket
 
 import json
 
-class ip():
+
+class ip:
     def __init__(self, ip):
-        self.ip = ip # IP of target
-        self.open_ports = list() # List of open ports
-        self.can_connect = True # Is able to connect to host
-        self.hostname_exists = True # Does hostname exist
+        self.ip = ip  # IP of target
+        self.open_ports = list()  # List of open ports
+        self.can_connect = True  # Is able to connect to host
+        self.hostname_exists = True  # Does hostname exist
 
     def export_data(self):
-        return dict({"ip": self.ip, "open_ports": self.open_ports, "can_connect": self.can_connect, "hostname_exists": self.hostname_exists})
+        return dict(
+            {
+                "ip": self.ip,
+                "open_ports": self.open_ports,
+                "can_connect": self.can_connect,
+                "hostname_exists": self.hostname_exists,
+            }
+        )
 
     def scan_ports(self):
         try:
-        # will scan ports in list ports
+            # will scan ports in list ports
             for port in ports:
                 result_code = self.connect(port)
                 if result_code == 0:

